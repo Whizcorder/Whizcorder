@@ -1,3 +1,4 @@
+![banner](https://github.com/Whizcorder/Whizcorder/blob/main/LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sithum Gamage</h1>
 <h3 align="center">A passionate IT student from SLTC Research University</h3>
 
