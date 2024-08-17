@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sithum Gamage</h1>
 <h3 align="center">A passionate IT student from SLTC Research University</h3>
 
-<img align="right" alt="coding" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
-
+<img align="right" alt="Coding" width="450" height="250" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whizcorder&label=Profile%20views&color=0e75b6&style=flat" alt="whizcorder" /> </p>
 
 - 🌱 I’m currently learning **Python, Java**
